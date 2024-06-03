@@ -1,5 +1,13 @@
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
+<nav>
+        <ul>
+            <li><a href="stream-one.html">Stream One</a></li>
+            <li><a href="stream-two.html">Stream Two</a></li>
+            <li><a href="stream-three.html">Stream Three</a></li>
+        </ul>
+</nav>
+
 Welcome Juvva Pittja,
 
 This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
